@@ -1,11 +1,11 @@
 import './App.css'
-import Square from "./ui/Square.tsx";
+import Board from "./ui/Board.tsx";
 
 function App() {
 
   return (
     <>
-        <Square/>
+        <Board/>
     </>
   )
 }
